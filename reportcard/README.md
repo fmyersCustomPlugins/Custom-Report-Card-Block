@@ -21,9 +21,7 @@ shows, on a user's Dashboard, a report card with:
 
 Quarter columns are matched from your grade category names — any grade
 category whose name contains "Quarter 1", "Quarter 2", "Quarter 3", or
-"Quarter 4" (case-insensitive) is picked up automatically. No settings
-page is needed; this is based on how your gradebook categories are
-already named.
+"Quarter 4" (case-insensitive) is picked up automatically. 
 
 ## Requirements
 
@@ -63,10 +61,6 @@ extra table, or extra capability is needed).
    one; if not, one can be created under
    **Site administration > Users > Permissions > Define roles**, ticking
    **User** under "Context types where this role may be assigned").
-
-That's it — the parent doesn't need to be enrolled in the student's
-courses. As soon as this role assignment exists, the parent's Report Card
-block will automatically show that student's grades.
 
 ## Capabilities
 
